@@ -1,5 +1,5 @@
 # Janitor
-Drive cleanup utility. Deduplication, mostly.
+Drive cleanup utility. Deduplication, mostly. Work-in-progress.
 
 Plan:
 - Take working path as argument (default to current path)
